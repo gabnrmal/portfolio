@@ -20,3 +20,6 @@ Alternatively, select Deploy from a branch, main, / (root) in Pages settings ins
 - assets/bir-registration-seal.png: supplied seal image.
 
 All original 23 unique PDF URLs are retained. Channel links include work by other editors; artwork is illustrative, not video footage. Facebook may require sign-in. No contact email was supplied; the historical Facebook archive is labeled inactive. No video is downloaded or rehosted.
+
+
+
